@@ -1,0 +1,5 @@
+{
+  "name": "ReactoPlan - Manufacturing Reactor Scheduler",
+  "description": "A high-performance reactor management system with resource-based calendar scheduling, real-time overlap prevention, and multi-level occupancy analytics for CDS, Mfg, and Tech Transfer teams.",
+  "requestFramePermissions": []
+}
